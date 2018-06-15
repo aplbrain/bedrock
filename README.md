@@ -20,7 +20,7 @@ FROM aplbrain/bedrock:<VERSION>
 # ...build instructions here...
 
 CMD [ "exe_name_here", "arg" ]
-````
+```
 
 ## License
 
