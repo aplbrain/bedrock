@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.11
 LABEL maintainer "Miller Wilt <miller.wilt@jhuapl.edu>"
 
 RUN apk add --no-cache su-exec tini
